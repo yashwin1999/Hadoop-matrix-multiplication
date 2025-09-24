@@ -1,4 +1,4 @@
-README: Matrix Multiplication Using Hadoop MapReduce
+Matrix Multiplication Using Hadoop MapReduce
 
 Prerequisites
 
